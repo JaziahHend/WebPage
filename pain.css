@@ -1,0 +1,40 @@
+.head {
+    background: white;
+}
+
+header {
+    color: black;
+
+}
+
+#navigate {
+    color: black;
+    background: red;
+        display: flex;
+        height: 30%;
+    border-bottom: blue double 1em;
+    border-top: blue double 1em;
+}
+#navigate > hi {
+    margin: auto
+}
+.btn {
+    background-color: red;
+    border: black;
+    color: black;
+    padding: 12px 16px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: whitesmoke;
+}
+.wnt {
+    color: black;
+    font-size: 30px;
+}
+
+
+.foot{
+    background: white
+}
