@@ -29,11 +29,26 @@ header {
 .btn:hover {
     background-color: whitesmoke;
 }
-
-.hm {
+.abt {
+    color: black;
+    font-size: 30px;
+    
+}
+.th {
+    color: black;
+    font-size: 30px;
+    
+}
+.spts {
+    color: black;
+    font-size: 30px;
+    
+}
+.bk {
     color: black;
     font-size: 30px;
 }
+
 
 .foot{
     background: white

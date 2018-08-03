@@ -29,26 +29,22 @@ header {
 .btn:hover {
     background-color: whitesmoke;
 }
-.abt {
-    color: black;
-    font-size: 30px;
-    
-}
-.th {
-    color: black;
-    font-size: 30px;
-    
-}
-.spts {
-    color: black;
-    font-size: 30px;
-    
-}
-.bk {
+.hm {
     color: black;
     font-size: 30px;
 }
 
 .foot{
     background: white
+}
+
+@media screen and ( max-width: 500px ) {
+    a {
+        font-size: 3em;
+    }
+}
+@media screen and ( min-width: 500px ) {
+    a {
+        font-size: 3em;
+    }
 }
